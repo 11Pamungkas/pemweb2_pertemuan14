@@ -4,9 +4,7 @@
 ![Fitur Pengembalian Buku](ss-testing/pengembalian-buku2.png)
 
 ## 2. Laporan Transaksi 
-![Laporan Transaksi](ss-testing/laporan-transaksi.png)
 ![Laporan Transaksi](ss-testing/laporan-transaksi-filter.png)
-![Laporan Transaksi](ss-testing/lt-pdf.png)
 
 ## 3. Notifikasi Terlambat
 ![Notifikasi Terlambat](ss-testing/dashboard-terlambat.png)
