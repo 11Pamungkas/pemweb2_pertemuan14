@@ -1,7 +1,6 @@
 #  PERTEMUAN 14
 
 ## 1. Fitur Pengembalian Buku
-![Fitur Pengembalian Buku](ss-testing/pengembalian-buku2.png)
 
 ## 2. Laporan Transaksi 
 ![Laporan Transaksi](ss-testing/laporan-transaksi-filter.png)
