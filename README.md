@@ -1,8 +1,6 @@
-# TUGAS PEMROGRAMAN WEB 2 - PERTEMUAN 14
+#  PERTEMUAN 14
 
 ## 1. Fitur Pengembalian Buku
-![Fitur Pengembalian Buku](ss-testing/pengembalian-buku.png)
-![Fitur Pengembalian Buku](ss-testing/pengembalian-buku1.png)
 ![Fitur Pengembalian Buku](ss-testing/pengembalian-buku2.png)
 
 ## 2. Laporan Transaksi 
